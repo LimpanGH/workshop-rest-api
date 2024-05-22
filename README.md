@@ -19,7 +19,7 @@ Du ska skapa ett REST API för 2 till 3 olika resurser. Detta ska göras med Nod
 
 4. Definera dina endpoints (routes) för varje resurs
 
-5. Skriva dina handler enligt CRUD för varje route
+5. Skriva din handler enligt CRUD för varje route
 
 6. Testa ditt REST API med ThunderClient eller Postman. Skapa en "collection" för tester av varje resurs så att du enkelt kan testa dina routes
 
